@@ -2,7 +2,6 @@
 import tkinter as tk
 from tkinter import messagebox
 
-
 class CalculatorApp:
     def __init__(self, root):
         self.root = root
